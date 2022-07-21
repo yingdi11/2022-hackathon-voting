@@ -1,0 +1,14 @@
+node_modules
+/.cache
+/public/build
+/.netlify
+/.env
+/.env.sample
+
+out
+public/js
+
+.env.sample
+/build
+/coverage
+sample.env

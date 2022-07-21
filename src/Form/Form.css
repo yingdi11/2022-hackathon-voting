@@ -1,0 +1,14 @@
+.submit.ui.button {
+    margin-top: calc(2rem - 0.142857em);
+    margin-bottom: calc(2rem - 0.142857em);
+}
+
+.required {
+    color: red;
+}
+
+.multiple-votes {
+    font-size: 12px;
+    margin-top:-1rem;
+    font-style: italic;
+}
